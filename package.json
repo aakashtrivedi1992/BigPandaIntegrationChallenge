@@ -1,0 +1,20 @@
+{
+  "name": "bigPandaIntegration",
+  "version": "1.0.0",
+  "description": "Big Panda Integration to get AccuWeather alerts",
+  "main": "integrationApi.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "AakashTrivedi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^7.1.1",
+    "mocha-bdd": "^0.1.2"
+  }
+}
